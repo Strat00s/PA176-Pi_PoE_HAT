@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "4d034929a60c164d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e033ab4ed6df9ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcaa327ff99b5284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e16618bddf885051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d54e40ecfc571ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71fb9086a0c774a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "098ceadd9b97bc0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57c5912f1f753d56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08b7ad696edc91e9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "479e7c5090093679",
+    "type": "split",
+    "children": [
+      {
+        "id": "34069e086e1d13a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "613e9abf6fe68aa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e5563518a6fba5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d69258f7a792a44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "358b6413a465b092",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e16618bddf885051",
+  "lastOpenFiles": [
+    "Components.md",
+    "PD.md"
+  ]
+}
