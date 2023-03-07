@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sm51589pel")(type "KiCad")(uri "${KIPRJMOD}/sm51589pel.kicad_sym")(options "")(descr ""))
+)
