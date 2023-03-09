@@ -17,8 +17,8 @@ Pasive components for DCDC fly-buck converter
 | NCP1090DG   | PD      | 40,975,- |
 | MP8003A     | PD      | 54,146,- |
 | MP8009GV    | PD, DRV | 64,39,-  |
-| MP8007GV    | PD, CTR | 54,24,-  |
-| KTA1136EUAE | PD, CTR | 54,72,-  |
+| MP8007GV    | PD, FET | 54,24,-  |
+| KTA1136EUAE | PD, FET | 54,72,-  |
 
 PD70101 or PD70201 look the best (builtin controller)
 or PD70100 with some very cheap controller
@@ -27,10 +27,10 @@ https://cz.farnell.com/monolithic-power-systems-mps/mp8007gv-p/poe-controller-40
 https://cz.farnell.com/monolithic-power-systems-mps/mp8009gv-p/power-over-ethernet-250khz-125deg/dp/3810345RL
 
 MP8009GV - available, PD and PWM, PoE+
-MP8007GV - available, PD and controller, PoE
+MP8007GV - available, PD and FET, PoE
 
 https://cz.mouser.com/ProductDetail/Kinetic-Technologies/KTA1136EUAE-TR?qs=eP2BKZSCXI6TyUWlHyOIJw%3D%3D
-KTA1136EUAE-TR - available, PD and controller, PoE
+KTA1136EUAE-TR - available, PD and FET, PoE
 
 https://cz.mouser.com/ProductDetail/Kinetic-Technologies/KTA1137AEUAB-TR?qs=B6kkDfuK7%2FC2ceb5uybLMQ%3D%3D
 KTA1137AEUAB-TR - PD and PWM, PoE+	
