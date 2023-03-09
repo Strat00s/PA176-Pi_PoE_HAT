@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "sm51589pel")(type "KiCad")(uri "${KIPRJMOD}/sm51589pel.kicad_sym")(options "")(descr ""))
+  (lib (name "pi_poe")(type "KiCad")(uri "${KIPRJMOD}/pi_poe.kicad_sym")(options "")(descr ""))
 )
