@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=POE70P-50LD
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=8
+Version=1.4
+Released=2020-10-10 22:17:52
+Downloaded=2023-03-14 12:04:45
+3D=N

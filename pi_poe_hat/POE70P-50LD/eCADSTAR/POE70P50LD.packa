@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "POE70P-50LD"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-10-22:17:52)
+    (mountForm default
+        (footprintRef "POE70P50LD")
+        (spec "System")
+    )
+)

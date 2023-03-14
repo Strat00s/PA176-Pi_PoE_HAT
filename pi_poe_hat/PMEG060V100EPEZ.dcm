@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG060V100EPEZ
+D PMEG060V100EPE - 60 V, 10 A low VF Schottky barrier rectifier@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG060V100EPE.pdf
+$ENDCMP
+#
+#End Doc Library

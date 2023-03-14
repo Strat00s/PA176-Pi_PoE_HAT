@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "POE70P50LD"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "POE70P50LD")
+        (spec "default")
+    )
+)

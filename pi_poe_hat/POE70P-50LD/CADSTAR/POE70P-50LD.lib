@@ -1,0 +1,15 @@
+.POE70P-50LD :1 ;Audio Transformers / Signal Transformers POE70P Flyback 7uH 5.0 V 1.4 A
+POE70P50LD
+*STM T
+*NGS
+*PLB 1="BIAS -" 2="BIAS +" 3="PRI +" 4="PRI -" 5="SEC +_1" 6="SEC +_2" 7="SEC -_1" 8="SEC -_2"
+*MXP 8
+*DFN POE70P-50LD
+~!Mouser Part Number (994-POE70P-50LD)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/POE70P-50LD?qs=ZYnrCdKdyeed5KiTZWBt9w%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (POE70P-50LD)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/POE70P-50LD.pdf)
+~!Height (11mm)
+POE70P-50LD
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP POE13P-50LD
+D Audio Transformers / Signal Transformers POE13P Flyback PoE 127uH 5.0 V 2.6 A
+K
+F https://www.coilcraft.com/pdfs/poe_ep.pdf
+$ENDCMP
+#
+#End Doc Library
