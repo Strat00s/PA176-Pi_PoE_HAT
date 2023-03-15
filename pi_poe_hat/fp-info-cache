@@ -1,4 +1,4 @@
-21451517918349304
+21454875699291779
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89585,3 +89585,17 @@ MP8007GV-Z
 0
 29
 29
+pi_poe
+PMEG060V100EPEZ
+SOT1289B_2022-2
+Schottky Diode
+0
+3
+3
+pi_poe
+POE13P50LD
+POE13P-50LD-2
+Transformer
+0
+10
+10
