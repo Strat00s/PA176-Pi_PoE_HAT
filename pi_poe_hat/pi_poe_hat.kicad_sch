@@ -3973,7 +3973,7 @@
     (property "Value" "SMAJ85A" (at 86.36 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SMA-SMB_Universal_Handsoldering" (at 78.74 43.18 0)
+    (property "Footprint" "Diode_SMD:D_SMA" (at 78.74 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://cz.mouser.com/datasheet/2/115/DIOD_S_A0011538071_1-2543697.pdf" (at 76.2 40.64 0)
